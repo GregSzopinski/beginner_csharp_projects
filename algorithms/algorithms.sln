@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms", "Algorithms\Algorithms.csproj", "{02E6E2E4-DBB9-4457-B019-2BE3059FCA52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunAlgorithms", "RunAlgorithms\RunAlgorithms.csproj", "{2987C3E2-E909-4C56-94FE-EF7A47B73082}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02E6E2E4-DBB9-4457-B019-2BE3059FCA52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02E6E2E4-DBB9-4457-B019-2BE3059FCA52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02E6E2E4-DBB9-4457-B019-2BE3059FCA52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02E6E2E4-DBB9-4457-B019-2BE3059FCA52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2987C3E2-E909-4C56-94FE-EF7A47B73082}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2987C3E2-E909-4C56-94FE-EF7A47B73082}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2987C3E2-E909-4C56-94FE-EF7A47B73082}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2987C3E2-E909-4C56-94FE-EF7A47B73082}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

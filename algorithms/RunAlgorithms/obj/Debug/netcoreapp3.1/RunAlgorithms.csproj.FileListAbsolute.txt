@@ -1,0 +1,16 @@
+/home/grzeszo/RiderProjects/algorithms/RunAlgorithms/bin/Debug/netcoreapp3.1/RunAlgorithms
+/home/grzeszo/RiderProjects/algorithms/RunAlgorithms/bin/Debug/netcoreapp3.1/RunAlgorithms.deps.json
+/home/grzeszo/RiderProjects/algorithms/RunAlgorithms/bin/Debug/netcoreapp3.1/RunAlgorithms.runtimeconfig.json
+/home/grzeszo/RiderProjects/algorithms/RunAlgorithms/bin/Debug/netcoreapp3.1/RunAlgorithms.runtimeconfig.dev.json
+/home/grzeszo/RiderProjects/algorithms/RunAlgorithms/bin/Debug/netcoreapp3.1/RunAlgorithms.dll
+/home/grzeszo/RiderProjects/algorithms/RunAlgorithms/bin/Debug/netcoreapp3.1/RunAlgorithms.pdb
+/home/grzeszo/RiderProjects/algorithms/RunAlgorithms/bin/Debug/netcoreapp3.1/Algorithms.dll
+/home/grzeszo/RiderProjects/algorithms/RunAlgorithms/bin/Debug/netcoreapp3.1/Algorithms.pdb
+/home/grzeszo/RiderProjects/algorithms/RunAlgorithms/obj/Debug/netcoreapp3.1/RunAlgorithms.csprojAssemblyReference.cache
+/home/grzeszo/RiderProjects/algorithms/RunAlgorithms/obj/Debug/netcoreapp3.1/RunAlgorithms.AssemblyInfoInputs.cache
+/home/grzeszo/RiderProjects/algorithms/RunAlgorithms/obj/Debug/netcoreapp3.1/RunAlgorithms.AssemblyInfo.cs
+/home/grzeszo/RiderProjects/algorithms/RunAlgorithms/obj/Debug/netcoreapp3.1/RunAlgorithms.csproj.CoreCompileInputs.cache
+/home/grzeszo/RiderProjects/algorithms/RunAlgorithms/obj/Debug/netcoreapp3.1/RunAlgorithms.csproj.CopyComplete
+/home/grzeszo/RiderProjects/algorithms/RunAlgorithms/obj/Debug/netcoreapp3.1/RunAlgorithms.dll
+/home/grzeszo/RiderProjects/algorithms/RunAlgorithms/obj/Debug/netcoreapp3.1/RunAlgorithms.pdb
+/home/grzeszo/RiderProjects/algorithms/RunAlgorithms/obj/Debug/netcoreapp3.1/RunAlgorithms.genruntimeconfig.cache

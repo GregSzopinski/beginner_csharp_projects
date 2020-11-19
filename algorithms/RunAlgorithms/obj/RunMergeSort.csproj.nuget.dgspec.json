@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/grzeszo/RiderProjects/algorithms/RunMergeSort/RunMergeSort.csproj": {}
+  },
+  "projects": {
+    "/home/grzeszo/RiderProjects/algorithms/RunMergeSort/RunMergeSort.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/grzeszo/RiderProjects/algorithms/RunMergeSort/RunMergeSort.csproj",
+        "projectName": "RunMergeSort",
+        "projectPath": "/home/grzeszo/RiderProjects/algorithms/RunMergeSort/RunMergeSort.csproj",
+        "packagesPath": "/home/grzeszo/.nuget/packages/",
+        "outputPath": "/home/grzeszo/RiderProjects/algorithms/RunMergeSort/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/grzeszo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

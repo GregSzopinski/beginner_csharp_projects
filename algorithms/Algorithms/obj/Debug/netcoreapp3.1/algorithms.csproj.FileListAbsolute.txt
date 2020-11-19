@@ -1,0 +1,9 @@
+/home/grzeszo/RiderProjects/algorithms/algorithms/obj/Debug/netcoreapp3.1/algorithms.csprojAssemblyReference.cache
+/home/grzeszo/RiderProjects/algorithms/algorithms/obj/Debug/netcoreapp3.1/algorithms.AssemblyInfoInputs.cache
+/home/grzeszo/RiderProjects/algorithms/algorithms/obj/Debug/netcoreapp3.1/algorithms.AssemblyInfo.cs
+/home/grzeszo/RiderProjects/algorithms/algorithms/obj/Debug/netcoreapp3.1/algorithms.csproj.CoreCompileInputs.cache
+/home/grzeszo/RiderProjects/algorithms/algorithms/bin/Debug/netcoreapp3.1/algorithms.deps.json
+/home/grzeszo/RiderProjects/algorithms/algorithms/bin/Debug/netcoreapp3.1/algorithms.dll
+/home/grzeszo/RiderProjects/algorithms/algorithms/bin/Debug/netcoreapp3.1/algorithms.pdb
+/home/grzeszo/RiderProjects/algorithms/algorithms/obj/Debug/netcoreapp3.1/algorithms.dll
+/home/grzeszo/RiderProjects/algorithms/algorithms/obj/Debug/netcoreapp3.1/algorithms.pdb
