@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/grzeszo/RiderProjects/algorithms/Algorithms/Algorithms.csproj",
+      "projectUniqueName": "/home/grzeszo/RiderProjects/beginner_csharp_projects/algorithms/Algorithms/Algorithms.csproj",
       "projectName": "Algorithms",
-      "projectPath": "/home/grzeszo/RiderProjects/algorithms/Algorithms/Algorithms.csproj",
+      "projectPath": "/home/grzeszo/RiderProjects/beginner_csharp_projects/algorithms/Algorithms/Algorithms.csproj",
       "packagesPath": "/home/grzeszo/.nuget/packages/",
-      "outputPath": "/home/grzeszo/RiderProjects/algorithms/Algorithms/obj/",
+      "outputPath": "/home/grzeszo/RiderProjects/beginner_csharp_projects/algorithms/Algorithms/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/grzeszo/.nuget/NuGet/NuGet.Config"

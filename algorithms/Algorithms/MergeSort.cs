@@ -9,12 +9,16 @@ namespace Algorithms
     {
         public static int[] MergeSort(int[] numbers)
         {
-            if (numbers.Length <= 1) return numbers; // base case
+            // base case - arrays of length 0 or 1 are already 'sorted'
+            if (numbers.Length <= 1) return numbers;
+            
+            // divide subroutine
             var left = new List<int>();
             var right = new List<int>();
 
             for (int i = 0; i < numbers.Length; i++)
             {
+                // the split is based on 'oddity' of indices
                 if (i % 2 > 0)
                 {
                     left.Add(numbers[i]);
@@ -24,11 +28,12 @@ namespace Algorithms
                     right.Add(numbers[i]);
                 }
             }
-
+            
+            // recursively run algortihms on sub arrays
             left = MergeSort(left.ToArray()).ToList();
             right = MergeSort(right.ToArray()).ToList();
 
-            return Merge(left, right); // todo: define merge
+            return Merge(left, right);
         }
 
         private static int[] Merge(List<int> left, List<int> right)

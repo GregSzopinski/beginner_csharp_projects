@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8d3qIj+1A8ubp0dQMz4CQZDYZF3MD4QDqyATkrcx8b0TP9W/6DjyKXI8rBjezRMoBKST8PZARKBZAWaSeTm6nQ==",
+  "dgSpecHash": "U379p0jpY7M6bVfjFVrW5UyMP2+6Esn40v3GhpD0co8DIjInN3dAfiKRDN+mTPloOLUmqMejmYPH0VHgPs+Apw==",
   "success": true,
-  "projectFilePath": "/home/grzeszo/RiderProjects/algorithms/Algorithms/Algorithms.csproj",
+  "projectFilePath": "/home/grzeszo/RiderProjects/beginner_csharp_projects/algorithms/Algorithms/Algorithms.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
